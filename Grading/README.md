@@ -1,0 +1,1 @@
+This is a code I wrote in C to grading the rsults of some students
