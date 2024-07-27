@@ -13,7 +13,8 @@
  * below 50 = F
  * Return: 0 (if successful)
  */
- 
+
+
 int main() {
     int grade;
     /* Tell the user to input the score*/
